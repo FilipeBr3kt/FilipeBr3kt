@@ -1,5 +1,7 @@
 ### Olá! eu sou o Filipe Buttchevitz
 
+Meu nome é Filipe Buttchevitz, sou de Brusque(SC). Sou entusiasta nessa área de tecnologia, gosto de aprender e evoluir minhas habilidades continuamente. Sempre estou em busca de aprender uma tecnologia nova.
+
 ![FilipeBr3kt GitHub stats](https://github-readme-stats.vercel.app/api?username=filipebr3kt&show_icons=true&theme=dracula)
 
 ### Tecnologias que eu uso no meu dia
