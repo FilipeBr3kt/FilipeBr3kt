@@ -1,4 +1,4 @@
-### Olá eu sou o Filipe Buttchevitz
+### Olá! eu sou o Filipe Buttchevitz
 
 ![FilipeBr3kt GitHub stats](https://github-readme-stats.vercel.app/api?username=filipebr3kt&show_icons=true&theme=dracula)
 
