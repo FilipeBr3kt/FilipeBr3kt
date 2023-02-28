@@ -2,7 +2,11 @@
 
 Meu nome é Filipe Buttchevitz, sou de Brusque(SC). Sou entusiasta nessa área de tecnologia, gosto de aprender e evoluir minhas habilidades continuamente. Sempre estou em busca de aprender uma tecnologia nova.
 
-![FilipeBr3kt GitHub stats](https://github-readme-stats.vercel.app/api?username=filipebr3kt&show_icons=true&theme=dracula)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipebr3kt&show_icons=true&theme=great-gatsby&include_all-commits-true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipebr3kt&layout=compact&langs_count-16&theme=great-gatsby"/>
+</div>
+
 
 ### Tecnologias que eu uso no meu dia
 
@@ -11,3 +15,6 @@ Meu nome é Filipe Buttchevitz, sou de Brusque(SC). Sou entusiasta nessa área d
   <img align="center" alt"css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt"javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
+
+
+![Snake animation}(https://github.com/filipebr3kt/filipebr3kt/blob/output/github-contribution-grid-snake.svg)
