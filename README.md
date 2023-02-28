@@ -17,4 +17,3 @@ Meu nome é Filipe Buttchevitz, sou de Brusque(SC). Sou entusiasta nessa área d
 </div>
 
 
-![snake gif](https://github.com/filipebr3kt/filipebr3kt/blob/output/github-contribution-grid-snake.svg)
