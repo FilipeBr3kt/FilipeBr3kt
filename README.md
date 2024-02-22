@@ -1,10 +1,7 @@
-### Olá! eu sou o Filipe Buttchevitz
+<h1>Hello and welcome 👋, I'am Filipe Buttchevitz</h1>
 
-Meu nome é Filipe Buttchevitz, sou de Brusque(SC). Sou entusiasta nessa área de tecnologia, gosto de aprender e evoluir minhas habilidades continuamente. Sempre estou em busca de aprender uma tecnologia nova.
+<h2 >I am a Developer</h2>
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FilipeBr3kt&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private-true"/>
-    <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeBr3kt&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
-
-
+<p align="left" dir="auto">
+  <img height="40em" src="https://skillicons.dev/icons?i=html,css,javascript,typescript,git,cs,vite,react,nodejs,tailwind"/>
+</p>
