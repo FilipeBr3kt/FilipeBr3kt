@@ -6,5 +6,5 @@ I'm improving my skills with Node JS and .NET.<br/> I have a goal of becoming a 
 
 <h2></h2>
 <p align="left" dir="auto">
-  <img height="40em" src="https://skillicons.dev/icons?i=html,css,javascript,typescript,git,dotnet,vite,react,nodejs,tailwind,sequelize"/>
+  <img height="40em" src="https://skillicons.dev/icons?i=html,css,javascript,typescript,git,github,dotnet,cs,vite,react,nodejs,tailwind,yarn"/>
 </p>
